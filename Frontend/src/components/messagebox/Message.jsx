@@ -8,7 +8,7 @@ const Message = () => {
 
         </div>
       </div>
-      <div className={`chat-bubble text-white bg-blue-500`}>Hi! what is up?</div>
+      <div className={`chat-bubble text-white bg-blue-500`}>Hi! Where are you?</div>
       <div className="chat-footer text-gray-900 opacity-60 text-xs flex gap-1 items-center">18:45</div>
     </div>
   );
