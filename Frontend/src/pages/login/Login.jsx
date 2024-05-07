@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <div className='flex flex-col items-center min-w-96 mx-auto'>
-      <div className='w-full p-6 rounded-lg shadow-md bg-gray-900 bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-10'>
+      <div className='w-full p-6 rounded-lg shadow-md bg-gray-900 bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-5'>
         <h1 className='text-3xl font-semibold text-center text-gray-700'>Login
           <span className='bg-clip-text text-transparent bg-gradient-to-l
           from-blue-600 to-purple-700 font-bold'> Baatchit <lord-icon
